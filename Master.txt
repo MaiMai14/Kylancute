@@ -1,1 +1,3 @@
-
+<Version: 1.01>
+/data/Map016.json https://raw.githubusercontent.com/MaiMai14/Kylancute/master/Map016.json
+<End of Version>
